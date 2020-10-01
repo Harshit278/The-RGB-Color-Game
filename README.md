@@ -1,1 +1,3 @@
-# The-RGB-Color-Game
+# The RG Color Game
+
+A fun game made using Html, CSS and javascript.
